@@ -1,0 +1,1 @@
+//Allows a server administrator to update the logging channel in the discord. 

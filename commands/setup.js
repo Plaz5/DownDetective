@@ -1,0 +1,1 @@
+//Will contain the !dd setup command, which will send messages with prompts to setup the bot. Messages include logging channel, and any users that should receive the notifications 

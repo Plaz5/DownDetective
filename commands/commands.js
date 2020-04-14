@@ -1,0 +1,1 @@
+//Will create an embed message that lists all available commands and is called by !dd commands
