@@ -1,4 +1,4 @@
-# DownDetective
+# Down Detective
 Discord Bot designed to alert server admins when a bot on their server goes offline and comes back online. 
 
 Required NPM packages 
